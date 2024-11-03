@@ -77,7 +77,7 @@
         background-color: rgba(255, 255, 255, 0.8); /* Slightly transparent */
         box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
         text-align: center;
-        animation: borderRotation  linear  infinite 3s; /* Apply rotating border animation */
+        animation: borderRotation  linear  infinite 5s; /* Apply rotating border animation */
         border-image-slice: 1; /* Ensure the border image slices properly */
         transition: transform 0.4s ease, box-shadow 0.4s ease;
       }
